@@ -1,6 +1,7 @@
 [{
 		"id": 1,
 		"name": "Nutella Pie",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/nutellacake.png",
 		"ingredients": [{
 				"quantity": 2,
 				"measure": "CUP",
@@ -103,6 +104,7 @@
 	{
 		"id": 2,
 		"name": "Brownies",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/brownies.png",
 		"ingredients": [{
 				"quantity": 350,
 				"measure": "G",
@@ -231,6 +233,7 @@
 	{
 		"id": 3,
 		"name": "Yellow Cake",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/yellowcake.png",
 		"ingredients": [{
 				"quantity": 400,
 				"measure": "G",
@@ -380,6 +383,7 @@
 	{
 		"id": 4,
 		"name": "Cheesecake",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/cheesecake.png",
 		"ingredients": [{
 				"quantity": 2,
 				"measure": "CUP",
@@ -524,6 +528,7 @@
 	{
 		"id": 5,
 		"name": "New Nutella Pie",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/nutellacake.png",
 		"ingredients": [{
 				"quantity": 2,
 				"measure": "CUP",
@@ -626,6 +631,7 @@
 	{
 		"id": 6,
 		"name": "New Brownies",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/brownies.png",
 		"ingredients": [{
 				"quantity": 350,
 				"measure": "G",
@@ -754,6 +760,7 @@
 	{
 		"id": 7,
 		"name": "New Yellow Cake",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/yellowcake.png",
 		"ingredients": [{
 				"quantity": 400,
 				"measure": "G",
@@ -903,6 +910,7 @@
 	{
 		"id": 8,
 		"name": "New Cheesecake",
+		"image": "https://drulabs.github.io/static/assets/bakethatcake/cheesecake.png",
 		"ingredients": [{
 				"quantity": 2,
 				"measure": "CUP",
