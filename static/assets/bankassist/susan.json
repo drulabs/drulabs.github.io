@@ -1,9 +1,20 @@
-[{
-		"id": "B2C148D3-F48A-6757-FADF-1BFC9A38E6C7",
+{
+    "account-info": {
+        "account-number": "JWB34PAG6XU",
+        "account-holder-name": "Susan Dunphee",
+        "registered-address": "404, north street, west bypass, Mason, DC - 98584",
+        "join-date": "March-14, 2015",
+        "premium": false,
+        "balance": 14056.90,
+        "account-type": "savings",
+        "unbilled-transactions": 13
+    },
+    "transactions": [{
+    	"id": "B2C148D3-F48A-6757-FADF-1BFC9A38E6C7",
 		"type": "credit",
 		"amount-in-cents": 421125,
 		"tags": "cross-border, remittance",
-		"timestamp": "1572923280",
+		"timestamp": "1532923280",
 		"account-number": "FBW26LCA7GS",
 		"remark": "Cross border transaction from Japan",
 		"flagged": "false"
@@ -13,7 +24,7 @@
 		"type": "debit",
 		"amount-in-cents": 2499,
 		"tags": "auto, adjusted",
-		"timestamp": "1555000456",
+		"timestamp": "1545000456",
 		"account-number": "PSI89GKV9MU",
 		"remark": "KX virtual magazine subscription",
 		"flagged": "false"
@@ -53,7 +64,7 @@
 		"type": "credit",
 		"amount-in-cents": 9557,
 		"tags": "transfer, credit-card, online, adjusted",
-		"timestamp": "1551162246",
+		"timestamp": "1531162246",
 		"account-number": "KTV55UVI7ZU",
 		"remark": "Promotional offer cashback for credit card ending with 4367",
 		"flagged": "true"
@@ -73,7 +84,7 @@
 		"type": "debit",
 		"amount-in-cents": 300614,
 		"tags": "credit-card, online",
-		"timestamp": "1560108540",
+		"timestamp": "1540108540",
 		"account-number": "EPM43ZLA0VL",
 		"remark": "Online purchase, Amazon",
 		"flagged": "false"
@@ -83,7 +94,7 @@
 		"type": "debit",
 		"amount-in-cents": 489205,
 		"tags": "cross-border, transfer",
-		"timestamp": "1583498006",
+		"timestamp": "1523498006",
 		"account-number": "VWJ35XYQ6LZ",
 		"remark": "Transfer to account ending with Q6LZ",
 		"flagged": "true"
@@ -93,7 +104,7 @@
 		"type": "credit",
 		"amount-in-cents": 81287,
 		"tags": "cross-border, auto, remittance",
-		"timestamp": "1572812471",
+		"timestamp": "1542812471",
 		"account-number": "ZPF75LHO7PZ",
 		"remark": "Cross border transaction from India",
 		"flagged": "true"
@@ -103,7 +114,7 @@
 		"type": "debit",
 		"amount-in-cents": 64089,
 		"tags": "online",
-		"timestamp": "1576613866",
+		"timestamp": "1526613866",
 		"account-number": "RUL74CTV4IX",
 		"remark": "Online Transaction, Casey's",
 		"flagged": "false"
@@ -123,7 +134,7 @@
 		"type": "credit",
 		"amount-in-cents": 246209,
 		"tags": "",
-		"timestamp": "1553005389",
+		"timestamp": "1533005389",
 		"account-number": "DDN13WDP3GQ",
 		"remark": "Anonymous transaction from DDN13WDP3GQ",
 		"flagged": "true"
@@ -133,7 +144,7 @@
 		"type": "credit",
 		"amount-in-cents": 17767,
 		"tags": "retail, auto",
-		"timestamp": "1567020046",
+		"timestamp": "1537020046",
 		"account-number": "GFA88KEM0OD",
 		"remark": "Interest for current month",
 		"flagged": "true"
@@ -173,9 +184,9 @@
 		"type": "debit",
 		"amount-in-cents": 196325,
 		"tags": "cross-border, transfer",
-		"timestamp": "1567592070",
+		"timestamp": "1527592070",
 		"account-number": "IPD70VVS3ON",
 		"remark": "Cross border transaction to Canada",
 		"flagged": "true"
-	}
-]
+	}]
+}
