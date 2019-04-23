@@ -1,0 +1,181 @@
+[{
+		"id": "B2C148D3-F48A-6757-FADF-1BFC9A38E6C7",
+		"type": "credit",
+		"amount-in-cents": 421125,
+		"tags": "cross-border, remittance",
+		"timestamp": "1572923280",
+		"account-number": "FBW26LCA7GS",
+		"remark": "Cross border transaction from Japan",
+		"flagged": "false"
+	},
+	{
+		"id": "CFB43ADF-50D2-DD37-AD59-D8438BD1C448",
+		"type": "debit",
+		"amount-in-cents": 2499,
+		"tags": "auto, adjusted",
+		"timestamp": "1555000456",
+		"account-number": "PSI89GKV9MU",
+		"remark": "KX virtual magazine subscription",
+		"flagged": "false"
+	},
+	{
+		"id": "F88F3BD8-C640-F5A8-2217-D04919D00F56",
+		"type": "credit",
+		"amount-in-cents": 74460,
+		"tags": "transfer, online",
+		"timestamp": "1535239700",
+		"account-number": "JCN67BNE4PN",
+		"remark": "Transfer from Jason B. (*******E4PN)",
+		"flagged": "false"
+	},
+	{
+		"id": "E1B78C23-FEA7-7A02-69B6-728A2BDA4AE1",
+		"type": "debit",
+		"amount-in-cents": 190516,
+		"tags": "transfer, cross-border, online, auto",
+		"timestamp": "1528858065",
+		"account-number": "CSA21YHQ2NO",
+		"remark": "Yearly donation to Green Protectors Environmentalists",
+		"flagged": "true"
+	},
+	{
+		"id": "58F8C0BF-DD4D-304A-837B-63E8D1FDEE53",
+		"type": "debit",
+		"amount-in-cents": 430571,
+		"tags": "credit-card, transfer",
+		"timestamp": "1541007660",
+		"account-number": "SOA24IZR1HX",
+		"remark": "Credit card payment for card ending with 4367",
+		"flagged": "false"
+	},
+	{
+		"id": "A1D959FF-51A9-8C8F-EC86-016AE83B0033",
+		"type": "credit",
+		"amount-in-cents": 9557,
+		"tags": "transfer, credit-card, online, adjusted",
+		"timestamp": "1551162246",
+		"account-number": "KTV55UVI7ZU",
+		"remark": "Promotional offer cashback for credit card ending with 4367",
+		"flagged": "true"
+	},
+	{
+		"id": "839F206D-6CE4-9C7E-073A-64E8EB190222",
+		"type": "debit",
+		"amount-in-cents": 420376,
+		"tags": "credit-card, retail",
+		"timestamp": "1551591517",
+		"account-number": "OMI16LMD8WL",
+		"remark": "Transaction at Jimmy's",
+		"flagged": "false"
+	},
+	{
+		"id": "C02D8C78-9F6A-3EF7-ACB7-739257B1D981",
+		"type": "debit",
+		"amount-in-cents": 300614,
+		"tags": "credit-card, online",
+		"timestamp": "1560108540",
+		"account-number": "EPM43ZLA0VL",
+		"remark": "Online purchase, Amazon",
+		"flagged": "false"
+	},
+	{
+		"id": "ABA89F10-1FBC-C3D6-F21B-C04DDE676E0E",
+		"type": "debit",
+		"amount-in-cents": 489205,
+		"tags": "cross-border, transfer",
+		"timestamp": "1583498006",
+		"account-number": "VWJ35XYQ6LZ",
+		"remark": "Transfer to account ending with Q6LZ",
+		"flagged": "true"
+	},
+	{
+		"id": "B196E596-44D0-9F31-7E82-EF815673319E",
+		"type": "credit",
+		"amount-in-cents": 81287,
+		"tags": "cross-border, auto, remittance",
+		"timestamp": "1572812471",
+		"account-number": "ZPF75LHO7PZ",
+		"remark": "Cross border transaction from India",
+		"flagged": "true"
+	},
+	{
+		"id": "C9A4D68A-612A-F20C-8905-83B63B75CAF1",
+		"type": "debit",
+		"amount-in-cents": 64089,
+		"tags": "online",
+		"timestamp": "1576613866",
+		"account-number": "RUL74CTV4IX",
+		"remark": "Online Transaction, Casey's",
+		"flagged": "false"
+	},
+	{
+		"id": "79C2D901-1C4C-79CC-7D86-2BAF9239F835",
+		"type": "credit",
+		"amount-in-cents": 226607,
+		"tags": "transfer, cross-border, online",
+		"timestamp": "1543429867",
+		"account-number": "VHO05UGQ0KP",
+		"remark": "Cross border transaction from Mexico",
+		"flagged": "true"
+	},
+	{
+		"id": "FFC9A301-40E8-B217-4069-20C61BB11918",
+		"type": "credit",
+		"amount-in-cents": 246209,
+		"tags": "",
+		"timestamp": "1553005389",
+		"account-number": "DDN13WDP3GQ",
+		"remark": "Anonymous transaction from DDN13WDP3GQ",
+		"flagged": "true"
+	},
+	{
+		"id": "9A557CC4-610D-18EB-0194-A96BE26505FD",
+		"type": "credit",
+		"amount-in-cents": 17767,
+		"tags": "retail, auto",
+		"timestamp": "1567020046",
+		"account-number": "GFA88KEM0OD",
+		"remark": "Interest for current month",
+		"flagged": "true"
+	},
+	{
+		"id": "4B7B3AD1-DCF6-DE5D-018A-48744074C347",
+		"type": "credit",
+		"amount-in-cents": 111823,
+		"tags": "cross-border, remittance, transfer",
+		"timestamp": "1547647423",
+		"account-number": "BTY80XZQ3CG",
+		"remark": "Cross border transaction from Japan",
+		"flagged": "true"
+	},
+	{
+		"id": "C81C08AD-E54A-0EB6-44B7-5B4CB3421880",
+		"type": "debit",
+		"amount-in-cents": 300042,
+		"tags": "adjusted, retail, online",
+		"timestamp": "1526360595",
+		"account-number": "WME76HCU6SS",
+		"remark": "Transfer to account ending with U6SS",
+		"flagged": "false"
+	},
+	{
+		"id": "2B438A4B-0DD4-A418-DC66-6B4CFF7AC692",
+		"type": "debit",
+		"amount-in-cents": 141686,
+		"tags": "",
+		"timestamp": "1549333126",
+		"account-number": "TNS04SBW7BG",
+		"remark": "Transfer to account ending with W7BG",
+		"flagged": "true"
+	},
+	{
+		"id": "5173CF44-7FFF-5C1C-C835-FE8D4CD161C1",
+		"type": "debit",
+		"amount-in-cents": 196325,
+		"tags": "cross-border, transfer",
+		"timestamp": "1567592070",
+		"account-number": "IPD70VVS3ON",
+		"remark": "Cross border transaction to Canada",
+		"flagged": "true"
+	}
+]
