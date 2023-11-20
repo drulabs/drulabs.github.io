@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_011",
+    "topic": "Artificial Intelligence",
+    "category": "Technolofy",
+    "display": "Artificial Intelligence",
+    "difficulty_level": "medium",
+    "num_questions": 20,
+    "max_points": 175,
+    "pass_points": 70,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_011_01",
+            "question_type": "text",
+            "text": "What does AI stand for?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Automated Information",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Advanced Intelligence",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Artificial Intelligence",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "All of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_02",
+            "question_type": "text",
+            "text": "Which programming language is commonly used for AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Java",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Python",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "C++",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ruby",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_03",
+            "question_type": "text",
+            "text": "What is the primary goal of AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Automation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Data Analysis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Game Development",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Imitating Human Intelligence",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_04",
+            "question_type": "text",
+            "text": "Which type of AI system is designed for a specific task?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Narrow AI",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "General AI",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Strong AI",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Weak AI",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_05",
+            "question_type": "text",
+            "text": "What is Machine Learning?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A type of computer hardware",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A programming language",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A subset of AI that involves learning from data",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A type of robotic process automation",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_06",
+            "question_type": "text",
+            "text": "What does the acronym NLP stand for in the context of AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Neutral Learning Path",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Non Linear Programming",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "New Language Protocol",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Natural Language Processing",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_07",
+            "question_type": "text",
+            "text": "Which AI technique mimics the way the human brain works?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Genetic Algorithms",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Expert Systems",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Neural Networks",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fuzzy Logic",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_08",
+            "question_type": "text",
+            "text": "What is the \"Turing Test\" used for?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Identifying prime numbers",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Testing AI's ability to exhibit intelligent behavior equivalent to that of a human",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Simulating weather patterns",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Assessing network security",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_09",
+            "question_type": "text",
+            "text": "What is the purpose of reinforcement learning in AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Mimicking human behavior",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Making decisions based on rules",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Learning from trial and error",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Analyzing large datasets",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_010",
+            "question_type": "text",
+            "text": "Which company developed the open-source machine learning framework TensorFlow?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Apple",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Microsoft",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Facebook",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Google",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_011",
+            "question_type": "text",
+            "text": "What is the concept of \"Big Data\" in the context of AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Large-sized computers",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Huge physical databases",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Processing vast amounts of data to extract meaningful insights",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Advanced data encryption",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_012",
+            "question_type": "text",
+            "text": "Which type of learning involves an AI system learning from labeled examples?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Unsupervised Learning",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Reinforcement Learning",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Supervised Learning",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Semi-supervised Learning",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_013",
+            "question_type": "text",
+            "text": "What is the \"Singularity\" in the context of AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A breakthrough in quantum computing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "The point at which AI surpasses human intelligence",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A famous AI research institute",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A type of neural network architecture",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_014",
+            "question_type": "text",
+            "text": "What does OCR stand for in the context of AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Optical Character Recognition",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Object Classification and Recognition",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Online Code Repository",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Organized Computing Resources",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_015",
+            "question_type": "text",
+            "text": "Which AI application allows machines to understand and interpret visual information?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Natural Language Processing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Computer Vision",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Speech Recognition",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Expert Systems",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_016",
+            "question_type": "text",
+            "text": "What is the purpose of a chatbot in AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Making coffee",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Simulating human conversation",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Playing video games",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Generating random numbers",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_017",
+            "question_type": "text",
+            "text": "Which algorithm is commonly used for clustering in machine learning?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Decision Trees",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "K-Means",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Support Vector Machines",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Gradient Boosting",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_018",
+            "question_type": "text",
+            "text": "What is the significance of the term \"Deep Learning\" in AI?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Learning complex topics",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Learning from a deep textbook",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Training neural networks with multiple layers",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Learning in-depth programming languages",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_019",
+            "question_type": "text",
+            "text": "Which AI technique is inspired by the process of natural selection?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Reinforcement Learning",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Genetic Algorithms",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Neural Networks",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fuzzy Logic",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_011_020",
+            "question_type": "text",
+            "text": "What is the concept of \"Bias\" in machine learning?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A type of error in programming",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "The inclination of a machine learning model to favor certain outcomes",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A form of artificial intelligence",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "The speed at which a machine learns",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

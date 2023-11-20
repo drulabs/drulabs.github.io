@@ -1,0 +1,68 @@
+[
+    {
+        "quiz_id": "quiz_01",
+        "display": "Hollywood",
+        "trending": false,
+        "path": "hollywood"
+    },
+    {
+        "quiz_id": "quiz_02",
+        "display": "Chemistry",
+        "trending": false,
+        "path": "chemistry-2"
+    },
+    {
+        "quiz_id": "quiz_03",
+        "display": "Our Universe",
+        "trending": false,
+        "path": "our_universe"
+    },
+    {
+        "quiz_id": "quiz_04",
+        "display": "Nature",
+        "trending": false,
+        "path": "nature"
+    },
+    {
+        "quiz_id": "quiz_05",
+        "display": "Basic Physics",
+        "trending": false,
+        "path": "basic_physics"
+    },
+    {
+        "quiz_id": "quiz_06",
+        "display": "Basics of Computer",
+        "trending": false,
+        "path": "computer_basics"
+    },
+    {
+        "quiz_id": "quiz_07",
+        "display": "High School Biology",
+        "trending": false,
+        "path": "high_school_biology"
+    },
+    {
+        "quiz_id": "quiz_08",
+        "display": "Android App Development",
+        "trending": false,
+        "path": "android_app"
+    },
+    {
+        "quiz_id": "quiz_09",
+        "display": "Operating System",
+        "trending": false,
+        "path": "operating_system"
+    },
+    {
+        "quiz_id": "quiz_010",
+        "display": "F.R.I.E.N.D.S.",
+        "trending": true,
+        "path": "friends"
+    },
+    {
+        "quiz_id": "quiz_011",
+        "display": "Artificial Intelligence",
+        "trending": true,
+        "path": "artificial_intelligence"
+    }
+]

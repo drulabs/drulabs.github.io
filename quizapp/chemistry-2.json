@@ -1,0 +1,749 @@
+{
+    "quiz_id": "quiz_002",
+    "topic": "Chemistry",
+    "category": "Science",
+    "display": "Chemistry",
+    "difficulty_level": "hard",
+    "num_questions": 10,
+    "max_points": 100,
+    "pass_points": 40,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_002_01",
+            "question_type": "text",
+            "text": "What is the chemical formula of common salt?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "H20",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "NaCl",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "HgCl",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "H2SO4",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_02",
+            "question_type": "text",
+            "text": "Which element is the primary constituent of diamonds?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Silver",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Hydrogen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mercury",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Carbon",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_03",
+            "question_type": "text",
+            "text": "What is the chemical symbol for gold?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "GG",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Fe",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Au",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ag",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_04",
+            "question_type": "text",
+            "text": "Which gas do plants absorb during photosynthesis?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Hydrogen",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_05",
+            "question_type": "text",
+            "text": "What is the pH of a neutral solution?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "14",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "10",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "5",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "7",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_06",
+            "question_type": "text",
+            "text": "Which of the following is a noble gas?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Chlorine",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Neon",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Iodine",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fluorine",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_07",
+            "question_type": "text",
+            "text": "What is the chemical formula for water?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "H2O",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "CO2",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "CH4",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "H2O2",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_08",
+            "question_type": "text",
+            "text": "Which subatomic particle carries a negative charge?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Proton",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Neutron",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Electron",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nucleon",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_09",
+            "question_type": "text",
+            "text": "What is the chemical symbol for iron?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Fe",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mg",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Zn",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Cu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_10",
+            "question_type": "text",
+            "text": "Which of the following is also known as wood alcohal?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Methanol",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ethanol",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Propanol",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Butanol",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_11",
+            "question_type": "text",
+            "text": "What is the chemical formula for methane?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "C2H6",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "CH4",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "C3H8",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "C4H10",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_12",
+            "question_type": "text",
+            "text": "What is the process by which plants make their own food using sunlight?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Respiration",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Photosynthesis",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Digestion",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fermentation",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_13",
+            "question_type": "text",
+            "text": "Hydrocarbons are organic compounds that contains ______",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Hydrogen and Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Carbon and Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Only Hydrogen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Carbon and Hydrogen",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_14",
+            "question_type": "text",
+            "text": "Which of the following is the correct definition of Calcination?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "It is a process of melting metals with calcium ",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "It is a process to convert ore into its oxide by heating it below its melting point in the presence of excess air.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "It is a process of rust-proofing metals metals by combining molten metal with stainless steel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "It is a process to convert ore into its oxide by heating it below its melting point in the absence or limited supply of air.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_15",
+            "question_type": "text",
+            "text": "Which gas is responsible for the greenhouse effect on Earth?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Hydrogen",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_16",
+            "question_type": "text",
+            "text": "What is the atomic number of carbon?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "6",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "12",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "14",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "20",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_17",
+            "question_type": "text",
+            "text": "What is the chemical formula for hydrochloric acid?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "H2SO4",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "HCl",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "NaOH",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "CH3COOH",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_18",
+            "question_type": "text",
+            "text": "Which cell converts the chemical energy of spontaneous redox reactions into electrical energy?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Voltic cell",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Electrolytics cell",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Galvanic cell",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Electrochecmical cell",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_19",
+            "question_type": "text",
+            "text": "Which gas is responsible for the color and smell of rotten eggs?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Nitrous oxide",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Carbon monoxide",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Methane",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Hydrogen sulfide",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_20",
+            "question_type": "text",
+            "text": "Which of the following is a halogen?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Sodium",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chlorine",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Potassium",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_21",
+            "question_type": "text",
+            "text": "Sea water can be converted into fresh water by ________",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Osmosis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Reverse osmosis",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Sedimentation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Diffusion",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_22",
+            "question_type": "text",
+            "text": "What is the chemical formula of Hydrogen peroxide?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "H2O",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "D20",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "H2O2",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "D3O2",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_002_23",
+            "question_type": "text",
+            "text": "In certain nuclear reactors, heavy water is used as a neutron moderator. What is the checmical formula of this heavy water?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "H2O",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "D20",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "H2O2",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "D3O2",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

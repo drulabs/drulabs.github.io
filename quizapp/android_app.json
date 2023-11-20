@@ -1,0 +1,621 @@
+{
+    "quiz_id": "quiz_008",
+    "topic": "Android App Development",
+    "category": "Technology",
+    "display": "Android App Development",
+    "difficulty_level": "medium",
+    "num_questions": 19,
+    "max_points": 190,
+    "pass_points": 80,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_008_01",
+            "question_type": "text",
+            "text": "What is the primary programming language used for Android app development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Java/Kotlin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Swift/ObjC",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Python/Ruby",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "C#/C++",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_02",
+            "question_type": "text",
+            "text": "What does APK stand for in the context of Android apps?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Android Package Kit",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Application Program Kernel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Advanced Programming Kit",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "App Parcelable Kernal",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_03",
+            "question_type": "text",
+            "text": "Which file is responsible for specifying the layout structure in traditional Android app development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Manifest file",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Java file",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "XML file",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Gradle file",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_04",
+            "question_type": "text",
+            "text": "What is the purpose of an Intent in Android development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To declare permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To define the app's structure",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To represent an operation to be performed",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To manage app resources",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_05",
+            "question_type": "text",
+            "text": "Which component is responsible for managing the user interface and interaction in an Android app?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Service",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Activity",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Broadcast Receiver",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Content Provider",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_06",
+            "question_type": "text",
+            "text": "What does the acronym \"UI\" stand for in Android app development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "User Interaction",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "User Interface",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "User Integration",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "User Intelligence",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_07",
+            "question_type": "text",
+            "text": "In Android development, what is a ViewGroup?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A data storage class",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A user interface element",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A programming language",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A network communication protocol",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_08",
+            "question_type": "text",
+            "text": "Which of the following is specified in the AndroidManifest.xml file?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "App permissions",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "OS version",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "UI layouts",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "local database connection strings",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_09",
+            "question_type": "text",
+            "text": "Which method is called when an Activity is first launched?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "onCreate()",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "onStart()",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "onResume()",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "onLaunch()",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_010",
+            "question_type": "text",
+            "text": "What is the purpose of the Android Gradle plugin in app development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To write code logic",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To manage project dependencies and build settings",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To design the user interface",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To handle app resources",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_011",
+            "question_type": "text",
+            "text": "Which component is usually used for background processing that doesn't require a user interface?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Activity",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Service",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Broadcast Receiver",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Content Provider",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_012",
+            "question_type": "text",
+            "text": "What is the purpose of the \"adb\" tool in Android development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To design app interfaces",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To manage app resources",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To build the app's executable file",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To interact with an Android device or emulator",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_013",
+            "question_type": "text",
+            "text": "Which layout is typically used to organize elements in a grid-like structure in Android?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "RelativeLayout",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "FrameLayout",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "RecyclerView",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "LinearLayout",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_014",
+            "question_type": "text",
+            "text": "What is an APK expansion file used for in Android development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Storing app data",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Providing additional app resources",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Defining app permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Handling user authentication",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_015",
+            "question_type": "text",
+            "text": "Which class is the entry point for an Android app and contains the main method?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "MainActivity",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "AppLauncher",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "AppEntryPoint",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Application",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_016",
+            "question_type": "text",
+            "text": "What is the purpose of the \"R.java\" file in Android development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To store app resources Ids",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To handle app permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To manage app data",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To define app activities",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_017",
+            "question_type": "text",
+            "text": "What does the term \"SQLite\" refer to in Android development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A programming language",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A version control system",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A database engine",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A user interface toolkit",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_018",
+            "question_type": "text",
+            "text": "Which API level corresponds to Android 13?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "API level 31",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "API level 32",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "API level 33",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "API level 34",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_008_019",
+            "question_type": "text",
+            "text": "What is the purpose of the Android Emulator in app development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To test apps on different devices",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To deploy apps to the Google Play Store",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To simulate the Android environment on a computer",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To optimize app performance",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

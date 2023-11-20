@@ -1,0 +1,621 @@
+{
+    "quiz_id": "quiz_010",
+    "topic": "F.R.I.E.N.D.S",
+    "category": "Tv show",
+    "display": "F.R.I.E.N.D.S",
+    "difficulty_level": "easy",
+    "num_questions": 19,
+    "max_points": 165,
+    "pass_points": 65,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_010_01",
+            "question_type": "text",
+            "text": "Who is the first character to find out about Monica and Chandler's secret relationship on Friends?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Phoebe",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ross",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Rachel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Joey",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_02",
+            "question_type": "text",
+            "text": "What is the name of Ross's second wife?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Carol",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Emily",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Janice",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Rachel",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_03",
+            "question_type": "text",
+            "text": "Which of the following is NOT one of Joey's sisters?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Tina",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Gina",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Veronica",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Mary Angela",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_04",
+            "question_type": "text",
+            "text": "What does Chandler's co-worker think Chandler's name is?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Toby",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tom",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ted",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Steve",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_05",
+            "question_type": "text",
+            "text": "What is the name of Ross and Monica's dog when they were kids?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Fluffy",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chi-Chi",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tuffy",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Sweety",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_06",
+            "question_type": "text",
+            "text": "What was the reason behind Ross's second divorce (with Emily)?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "He said Rachel's name instead of Emily's during the wedding vows.",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "He had an affair.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "He wanted to marry Rachel.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "He forgot to invite Emily's parents to the wedding.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_07",
+            "question_type": "text",
+            "text": "What is the name of the coffeehouse where the friends often hang out?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Central Perk",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Joey's Java",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Perky Brews",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "The Central Percolator",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_08",
+            "question_type": "text",
+            "text": "What does Monica's father give her as a belated graduation present?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A new car",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A chef's hat",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A beach house",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Stocks",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_010",
+            "question_type": "text",
+            "text": "What is the title of Joey's soap opera?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Days of Our Lives",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "The Bold and the Beautiful",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "General Hospital",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "As the World Turns",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_011",
+            "question_type": "text",
+            "text": "What is Chandler's middle name?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Charles",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Bing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mitch",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Muriel",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_012",
+            "question_type": "text",
+            "text": "What is the name of Ross and Monica's dog as adults?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Chi-Chi",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "LaPooh",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Snowball",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Chi-Chi's Revenge",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_013",
+            "question_type": "text",
+            "text": "Which of the following is NOT one of Joey's catchphrases?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "\"How you doin'?\"",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "\"It's not that common, it doesn't happen to every guy, and it is a big deal!\"",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "\"Joey doesn't share food!\"",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "\"Oh... my.... God......!\"",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_014",
+            "question_type": "text",
+            "text": "What is the name of Rachel's daughter?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Emma",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Sarah",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Judy",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Emily",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_015",
+            "question_type": "text",
+            "text": "What is the occupation of Joey's character on the soap opera \"Days of Our Lives\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Detective",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Lawyer",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Doctor",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Paleontologist",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_016",
+            "question_type": "text",
+            "text": "Who accidentally threw a woman's wooden leg into a fire at Thanksgiving?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ross",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chandler",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Monica",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Joey",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_017",
+            "question_type": "text",
+            "text": "What is the name of the self-help book that the girls love and the guys make fun of?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "\"Be Your Own Windkeeper\"",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "\"Love and Laugh\"",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "\"Empower Your Life\"",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "\"Live, Love, Laugh\"",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_018",
+            "question_type": "text",
+            "text": "What instrument does Phoebe play?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Flute",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Piano",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Guitar",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Clarinet",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_019",
+            "question_type": "text",
+            "text": "What is the name of Joey's stuffed penguin?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Waddlebottom",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Hugsy",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Snowflake",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fluffy",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_010_020",
+            "question_type": "text",
+            "text": "Which character got stuck in a pair of leather pants on Thanksgiving?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ross",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chandler",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Joey",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Monica",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

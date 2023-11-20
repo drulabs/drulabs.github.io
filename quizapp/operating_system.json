@@ -1,0 +1,621 @@
+{
+    "quiz_id": "quiz_009",
+    "topic": "Operating System",
+    "category": "Technology",
+    "display": "Operating System",
+    "difficulty_level": "hard",
+    "num_questions": 19,
+    "max_points": 205,
+    "pass_points": 90,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_009_01",
+            "question_type": "text",
+            "text": "What is the kernel in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The graphical user interface",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "The core component responsible for managing system resources",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A type of file system",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "The system clock",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_02",
+            "question_type": "text",
+            "text": "What is the primary function of the process scheduler in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Managing file systems",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Controlling user access",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Allocating system resources to running processes",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Handling network protocols",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_03",
+            "question_type": "text",
+            "text": "What does the acronym CPU stand for in the context of operating systems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Central Processing Unit",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Computer Processing Unit",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Control Processing Unit",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Centralized Processing Unit",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_04",
+            "question_type": "text",
+            "text": "What is virtual memory in operating systems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A storage medium for files",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A backup of the system state",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A technique that uses disk space to simulate RAM",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "An extension of the cache memory",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_05",
+            "question_type": "text",
+            "text": "Which component is responsible for managing communication between hardware and software in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Device driver",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "File system",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Registry",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Shell",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_06",
+            "question_type": "text",
+            "text": "What is the purpose of the interrupt handler in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To manage system resources",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To handle errors in the file system",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To respond to hardware or software events",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To control user access permissions",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_07",
+            "question_type": "text",
+            "text": "Which file system is commonly used in Linux operating systems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "FAT32",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "NTFS",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "EXT4",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "HFS+",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_08",
+            "question_type": "text",
+            "text": "What is the role of the page table in virtual memory management?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To store the contents of RAM",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To map virtual addresses to physical addresses",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To manage file permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To schedule processes for execution",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_09",
+            "question_type": "text",
+            "text": "What is a deadlock in the context of operating systems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A situation where a process cannot proceed because it is waiting for a resource held by another process",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A security vulnerability in the system",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A type of malware",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A failure in the file system",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_010",
+            "question_type": "text",
+            "text": "Which scheduling algorithm selects the process with the shortest burst time first?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Round Robin",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "First-Come-First-Serve",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Shortest Job Next",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Priority Scheduling",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_011",
+            "question_type": "text",
+            "text": "What is the purpose of the system call interface in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To provide a graphical user interface",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To manage system resources",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To allow processes to request services from the operating system kernel",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To control network protocols",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_012",
+            "question_type": "text",
+            "text": "What is the primary function of the file system in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To manage system memory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To control user access permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To organize and store data on storage devices",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To schedule processes for execution",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_013",
+            "question_type": "text",
+            "text": "Which type of operating system is designed to be used by a single user at a time?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Multi-user",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Batch processing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Multi-tasking",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Single-user",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_014",
+            "question_type": "text",
+            "text": "What is the purpose of the shell in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To manage hardware resources",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To provide a user interface for interacting with the operating system",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To allocate system memory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To control network protocols",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_015",
+            "question_type": "text",
+            "text": "In the context of process communication, what is a semaphore?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A type of file system",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A synchronization mechanism to control access to shared resources",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "An interrupt handler",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A backup of the system state",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_016",
+            "question_type": "text",
+            "text": "What is the purpose of the registry in Windows operating systems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To store system settings and configurations",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To manage file permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To control user access",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To allocate system memory",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_017",
+            "question_type": "text",
+            "text": "Which memory management scheme allows a process to be divided into fixed-size blocks?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Paging",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Segmentation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Swapping",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Contiguous Allocation",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_018",
+            "question_type": "text",
+            "text": "What is the purpose of the boot loader in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To load the operating system into memory during startup",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To manage file permissions",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To provide a user interface",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To control network protocols",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_009_019",
+            "question_type": "text",
+            "text": "What is the primary role of the Network Stack in an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To manage file systems over a network",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To provide a user interface for networking tasks",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To control user access to network resources",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To handle communication between devices on a network",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

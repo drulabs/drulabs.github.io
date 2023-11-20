@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_004",
+    "topic": "Nature",
+    "category": "General Knowledge",
+    "display": "Nature",
+    "difficulty_level": "hard",
+    "num_questions": 20,
+    "max_points": 195,
+    "pass_points": 80,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_004_01",
+            "question_type": "text",
+            "text": "Which waterfall is the largest by volume of water in the world?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Niagara Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Victoria Falls",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Iguazu Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Angel Falls",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_07",
+            "question_type": "text",
+            "text": "What is the largest coral reef system in the world?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Great Barrier Reef",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Belize Barrier Reef",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Red Sea Coral Reef",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Florida Reef",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_013",
+            "question_type": "text",
+            "text": "Which natural structure is known as the \"Roof of the World\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Mount Everest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Andes Mountains",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Swiss Alps",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Himalayas",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_019",
+            "question_type": "text",
+            "text": "What is the name of the largest hot desert in the world?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Gobi Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Sahara Desert",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Atacama Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Kalahari Desert",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_025",
+            "question_type": "text",
+            "text": "Which natural wonder is located at the border between Zambia and Zimbabwe?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Grand Canyon",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mount Kilimanjaro",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Angel Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Victoria Falls",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_031",
+            "question_type": "text",
+            "text": "What is the process by which a river forms a branching pattern of tributaries and distributaries?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Erosion",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Sedimentation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Delta formation",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Canyon carving",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_037",
+            "question_type": "text",
+            "text": "Which phenomenon is responsible for the vibrant colors of the Northern Lights (Aurora Borealis)?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Refraction",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Diffraction",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Reflection",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ionization of gases",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_043",
+            "question_type": "text",
+            "text": "What is the name of the largest tropical rainforest in the world?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Amazon Rainforest",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Congo Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Daintree Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Sundarbans Rainforest",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_049",
+            "question_type": "text",
+            "text": "Which natural disaster is measured on the Richter scale?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Hurricane",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tornado",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Tsunami",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_055",
+            "question_type": "text",
+            "text": "What is the name of the world's highest uninterrupted waterfall?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Niagara Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Angel Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Iguazu Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Victoria Falls",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_061",
+            "question_type": "text",
+            "text": "Which natural structure is often referred to as the \"Lungs of the Earth\" due to its role in producing oxygen?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Amazon Rainforest",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Sahara Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Great Barrier Reef",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Yellowstone National Park",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_067",
+            "question_type": "text",
+            "text": "What is the process by which ice transforms directly into water vapor without melting?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Sublimation",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Evaporation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Condensation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Melting",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_073",
+            "question_type": "text",
+            "text": "Which geological feature is formed by the dissolution of soluble rocks, often creating underground caverns?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Archipelago",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Karst landscape",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Plateau",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fjord",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_079",
+            "question_type": "text",
+            "text": "What is the name of the largest living structure on Earth, composed of individual coral polyps?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Great Barrier Reef",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Belize Barrier Reef",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Red Sea Coral Reef",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Florida Reef",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_085",
+            "question_type": "text",
+            "text": "Which natural disaster is characterized by the sudden release of energy in the Earth's crust, resulting in seismic waves?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Tornado",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Hurricane",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Earthquake",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Volcanic eruption",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_091",
+            "question_type": "text",
+            "text": "What is the term for a massive sheet of ice that moves slowly over land, shaping the landscape as it goes?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Glacier",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Iceberg",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ice cap",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ice shelf",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_097",
+            "question_type": "text",
+            "text": "Which natural wonder is known for its unique terraced pools formed by mineral-rich hot springs?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Pamukkale, Turkey",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Yellowstone National Park, USA",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Plitvice Lakes, Croatia",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Banff National Park, Canada",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_0103",
+            "question_type": "text",
+            "text": "What is the name of the large, circular wind patterns that rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Cyclones",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Westerlies",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Polar easterlies",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Trade winds",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_0109",
+            "question_type": "text",
+            "text": "Which natural wonder is formed by the erosion of soft rock, creating towering columns and arches?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Grand Canyon",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Arches National Park",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Bryce Canyon",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Zion National Park",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_004_0115",
+            "question_type": "text",
+            "text": "What is the name of the phenomenon where warm ocean water and low atmospheric pressure create powerful tropical storms?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Cyclone",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tornado",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Typhoon",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Monsoon",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

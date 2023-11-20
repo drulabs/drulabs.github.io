@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_003",
+    "topic": "Our Universe",
+    "category": "Science",
+    "display": "Our Universe",
+    "difficulty_level": "medium",
+    "num_questions": 20,
+    "max_points": 200,
+    "pass_points": 90,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_003_01",
+            "question_type": "text",
+            "text": "What is the age of the Universe, according to current scientific estimates?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "4.6 billion years",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "13.8 billion years",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "1 billion years",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "10 billion years",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_07",
+            "question_type": "text",
+            "text": "What is the largest planet in our Solar System?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Earth",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Jupiter",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Saturn",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Mars",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_013",
+            "question_type": "text",
+            "text": "Which galaxy is the Milky Way closest to?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Andromeda",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Triangulum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Sombrero",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Whirlpool",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_019",
+            "question_type": "text",
+            "text": "What force keeps planets in orbit around the Sun?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Magnetic force",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Electromagnetic force",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Gravitational force",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nuclear force",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_025",
+            "question_type": "text",
+            "text": "What is the process by which a star generates energy?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Nuclear Fission",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Convection",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Radiation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nuclear Fusion",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_031",
+            "question_type": "text",
+            "text": "Which astronomer proposed the heliocentric model of the solar system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ptolemy",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Galileo Galilei",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Johannes Kepler",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nicolaus Copernicus",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_037",
+            "question_type": "text",
+            "text": "What is the name of the closest star to Earth?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Proxima Centauri",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Alpha Centauri A",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Alpha Centauri B",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Betelgeuse",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_043",
+            "question_type": "text",
+            "text": "What is the term for a dying star that suddenly increases in brightness before fading away?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Supernova",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Red giant",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "White dwarf",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nova",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_049",
+            "question_type": "text",
+            "text": "What is the name of the phenomenon where light from a celestial body is blocked by another, creating a temporary decrease in brightness?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Eclipse",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Occultation",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Transit",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nebula",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_055",
+            "question_type": "text",
+            "text": "Which planet is known as the \"Red Planet\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Earth",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mars",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Venus",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Jupiter",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_061",
+            "question_type": "text",
+            "text": "What is the name of the boundary around a black hole beyond which nothing can escape, not even light?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Singularity",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ergosphere",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Event horizon",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Photon sphere",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_067",
+            "question_type": "text",
+            "text": "What is the most abundant gas in the Earth's atmosphere?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Nitrogen",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Argon",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_073",
+            "question_type": "text",
+            "text": "Which space agency launched the Hubble Space Telescope?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "NASA",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "ESA (European Space Agency)",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "ISRO (Indian Space Research Organisation)",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Roscosmos",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_079",
+            "question_type": "text",
+            "text": "What is the name of the first artificial satellite launched into Earth's orbit?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Explorer 1",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Vanguard 1",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Hubble Space Telescope",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Sputnik 1",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_085",
+            "question_type": "text",
+            "text": "Which moon in our Solar System is known for having extensive geysers that shoot water into space?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Europa",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Titan",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Enceladus",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ganymede",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_091",
+            "question_type": "text",
+            "text": "What is the name of the galaxy that contains our Solar System?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Andromeda",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Milky Way",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Triangulum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Sombrero",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_097",
+            "question_type": "text",
+            "text": "Which planet is often referred to as the \"evening star\" or the \"morning star\" because of its brightness?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Venus",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mars",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Jupiter",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Saturn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_0103",
+            "question_type": "text",
+            "text": "What is the name of the theory that explains the origin of the Universe as a rapid expansion from a very high-density state?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Steady-state theory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Nebular hypothesis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Pulsar theory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Big Bang theory",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_0109",
+            "question_type": "text",
+            "text": "Which telescope is located in space and has provided stunning images of distant galaxies, nebulae, and other astronomical phenomena?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Keck Observatory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chandra X-ray Observatory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Hubble Space Telescope",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Palomar Observatory",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_003_0115",
+            "question_type": "text",
+            "text": "What is the name of the process by which a star, much more massive than the Sun, exhausts its nuclear fuel and undergoes a catastrophic collapse?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Supernova",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Black hole formation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Red giant phase",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nebula formation",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

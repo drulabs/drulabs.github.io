@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_005",
+    "topic": "Basic Physics",
+    "category": "Physics",
+    "display": "Basic Physics",
+    "difficulty_level": "medium",
+    "num_questions": 20,
+    "max_points": 200,
+    "pass_points": 80,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_005_01",
+            "question_type": "text",
+            "text": "What is the SI unit of force?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Newton",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Joule",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Watt",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Pascal",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_07",
+            "question_type": "text",
+            "text": "Which of the following is a vector quantity?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Speed",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mass",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Distance",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Velocity",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_013",
+            "question_type": "text",
+            "text": "What is the law of conservation of energy?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Energy can neither be created nor destroyed, only transferred or converted.",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Energy always decreases in a closed system.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Energy is directly proportional to velocity.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Energy is inversely proportional to mass.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_019",
+            "question_type": "text",
+            "text": "Which of the following is a fundamental particle in an atom?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Neutron",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Proton",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Electron",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nucleus",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_025",
+            "question_type": "text",
+            "text": "What is the formula for calculating velocity?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "v = d/t",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "v = at",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "v = F/m",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "v = E/t",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_031",
+            "question_type": "text",
+            "text": "What is the acceleration due to gravity on the surface of Earth?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "9.8 m/s^2",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "5.0 m/s^2",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "7.2 m/s^2",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "12.5 m/s^2",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_037",
+            "question_type": "text",
+            "text": "Which law states that for every action, there is an equal and opposite reaction?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Newton's First Law",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Newton's Second Law",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Newton's Third Law",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Newton's Fourth Law",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_043",
+            "question_type": "text",
+            "text": "What is the unit of electrical resistance?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Volt",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ampere",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ohm",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Watt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_049",
+            "question_type": "text",
+            "text": "What is the term for the force that opposes the motion of an object?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Inertia",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Friction",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tension",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Gravity",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_055",
+            "question_type": "text",
+            "text": "Which type of energy does an object possess due to its motion?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Potential energy",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Kinetic energy",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Thermal energy",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Chemical energy",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_061",
+            "question_type": "text",
+            "text": "What is the law of reflection for light?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The angle of incidence is equal to the angle of refraction.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Light travels in straight lines.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "The angle of reflection is equal to the angle of incidence.",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Light waves can bend around corners.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_067",
+            "question_type": "text",
+            "text": "Which equation represents Ohm's Law?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "V = IR",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "P = IV",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Q = mcDT",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "F = ma",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_073",
+            "question_type": "text",
+            "text": "What is the principle behind a lever?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Archimedes' Principle",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Pascal's Principle",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Bernoulli's Principle",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Law of Moments",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_079",
+            "question_type": "text",
+            "text": "What is the unit of power?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Joule",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Watt",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Newton",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ohm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_085",
+            "question_type": "text",
+            "text": "What is the law of conservation of momentum?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The total momentum of a system is constant if no external forces act on it.",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Momentum is always increasing in a closed system.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Momentum is inversely proportional to velocity.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Momentum is directly proportional to mass.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_091",
+            "question_type": "text",
+            "text": "What is the wavelength of visible light?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "1 nm to 10 nm",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "1 cm to 10 cm",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "400 nm to 700 nm",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "1 to 10 micro meter",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_097",
+            "question_type": "text",
+            "text": "Which law states that the pressure of a given mass of gas is inversely proportional to its volume, assuming constant temperature?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Boyle's Law",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Charles's Law",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Gay-Lussac's Law",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Avogadro's Law",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_0103",
+            "question_type": "text",
+            "text": "A concave lens ____________________",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Converges light",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Diverges light",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Focuses light",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Magnifies objects",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_0109",
+            "question_type": "text",
+            "text": "Which property of a wave is defined as the number of waves passing a point in one second?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Wavelength",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Frequency",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Amplitude",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Velocity",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_005_0115",
+            "question_type": "text",
+            "text": "Which of the following materials is a good conductor of electricity?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Rubber",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Glass",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Copper",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Wood",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

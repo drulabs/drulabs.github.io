@@ -1,0 +1,621 @@
+{
+    "quiz_id": "quiz_001",
+    "topic": "Hollywood",
+    "category": "Entertainment",
+    "display": "Hollywood",
+    "difficulty_level": "medium",
+    "num_questions": 19,
+    "max_points": 210,
+    "pass_points": 90,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_001_01",
+            "question_type": "text",
+            "text": "What is the nickname for the American film industry centered in the district of Los Angeles, California?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Entertainment City",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Star City",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tinseltown",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Filmmaker's Paradise",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_02",
+            "question_type": "text",
+            "text": "Which prestigious awards ceremony honors outstanding achievements in the film industry?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Golden Globe Awards",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Academy Awards (Oscars)",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Emmy Awards",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Grammy Awards",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_03",
+            "question_type": "text",
+            "text": "Who is often referred to as the \"Father of Hollywood\" and was a co-founder of Paramount Pictures?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Louis B. Mayer",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Cecil B. DeMille",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Charlie Chaplin",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Adolph Zukor",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_04",
+            "question_type": "text",
+            "text": "Which Hollywood sign originally read \"Hollywoodland\" and was constructed for real estate advertising in 1923?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Mount Lee Sign",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Griffith Park Sign",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mulholland Sign",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Hills of Hollywood Sign",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_05",
+            "question_type": "text",
+            "text": "In Hollywood terminology, what does the acronym \"CGI\" stand for?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Computer-Generated Imagery",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Creative Graphics Interface",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Cinematic Graphic Integration",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Camera Generated Illustrations",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_06",
+            "question_type": "text",
+            "text": "Which film is often considered the first feature-length film in Hollywood, released in 1914?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The Birth of a Nation",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Gone with the Wind",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Casablanca",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "The Kid",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_07",
+            "question_type": "text",
+            "text": "Who is known for his iconic role as Indiana Jones in the film series and as Han Solo in the Star Wars franchise?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Harrison Ford",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tom Hanks",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Johnny Depp",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Leonardo DiCaprio",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_08",
+            "question_type": "text",
+            "text": "What is the Hollywood Walk of Fame primarily composed of?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Brass plaques",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Gold stars",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Bronze handprints",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Pink tiles",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_09",
+            "question_type": "text",
+            "text": "Which famous Hollywood director is known for films like \"Jaws,\" \"E.T. the Extra-Terrestrial,\" and \"Jurassic Park\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Christopher Nolan",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Steven Spielberg",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Quentin Tarantino",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Martin Scorsese",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_010",
+            "question_type": "text",
+            "text": "Which Hollywood actress won an Academy Award for her role in \"Monster\" and played the lead in films like \"Mad Max: Fury Road\" and \"Atomic Blonde\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Charlize Theron",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Meryl Streep",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Julia Roberts",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Angelina Jolie",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_011",
+            "question_type": "text",
+            "text": "What does the Hollywood term \"A-lister\" refer to?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "A top-tier film director",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "A high-budget film",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "A highly paid and popular actor",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "A critically acclaimed film",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_012",
+            "question_type": "text",
+            "text": "Which Hollywood studio is known for its roaring lion logo at the beginning of many films?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Warner Bros.",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Paramount Pictures",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Metro-Goldwyn-Mayer (MGM)",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Universal Pictures",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_013",
+            "question_type": "text",
+            "text": "In Hollywood, what is the purpose of a \"clapperboard\" or \"slate\" on a film set?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To mark the end of a scene",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "To synchronize audio and video",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "To create special effects",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "To identify the production and take of a shot",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_014",
+            "question_type": "text",
+            "text": "Which Hollywood actor starred in the film \"Forrest Gump\" and won an Academy Award for Best Actor for his role?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Tom Hanks",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Brad Pitt",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Johnny Depp",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Leonardo DiCaprio",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_015",
+            "question_type": "text",
+            "text": "What is the Hollywood term for the process of selecting actors for various roles in a film?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Casting Couch",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Role Assignment",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Casting Call",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Actor Selection",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_016",
+            "question_type": "text",
+            "text": "Which Hollywood film director is known for his works in science fiction, including \"Blade Runner\" and \"Alien\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Christopher Nolan",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "James Cameron",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ridley Scott",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Stanley Kubrick",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_017",
+            "question_type": "text",
+            "text": "What is the famous Hollywood sign made of?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Wood",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Metal",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Stone",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Concrete",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_018",
+            "question_type": "text",
+            "text": "Which Hollywood actress starred in the \"Twilight\" film series and won an Academy Award for her role in \"Still Alice\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Kristen Stewart",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Emma Watson",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Jennifer Lawrence",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Julia Roberts",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_001_019",
+            "question_type": "text",
+            "text": "What is the term for a film that achieves significant commercial success at the box office, often surpassing expectations?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Blockbuster",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Epic",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Masterpiece",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Cinematic Triumph",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

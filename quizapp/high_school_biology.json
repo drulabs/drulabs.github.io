@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_007",
+    "topic": "High School Biology",
+    "category": "Biology",
+    "display": "High School Biology",
+    "difficulty_level": "easy",
+    "num_questions": 20,
+    "max_points": 220,
+    "pass_points": 100,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_007_01",
+            "question_type": "text",
+            "text": "What is the powerhouse of the cell?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Nucleus",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mitochondria",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Endoplasmic reticulum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Golgi apparatus",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_02",
+            "question_type": "text",
+            "text": "Which of the following is a function of the respiratory system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Pumping blood",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Filtering waste",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Exchange of gases",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Digesting food",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_03",
+            "question_type": "text",
+            "text": "What is the process by which plants make their own food using sunlight?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Photosynthesis",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Respiration",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Fermentation",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Transpiration",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_04",
+            "question_type": "text",
+            "text": "Which organelle is responsible for protein synthesis in a cell?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Nucleus",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mitochondria",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ribosome",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Endoplasmic reticulum",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_05",
+            "question_type": "text",
+            "text": "What is the main function of the circulatory system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Transporting oxygen and nutrients",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Digesting food",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Producing hormones",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Supporting the body structurally",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_06",
+            "question_type": "text",
+            "text": "Which of the following is a function of the nervous system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Regulating body temperature",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Producing antibodies",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Transmitting signals",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Breaking down nutrients",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_07",
+            "question_type": "text",
+            "text": "What is the process by which a cell divides into two identical daughter cells?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Meiosis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Fertilization",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mitosis",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Gametogenesis",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_08",
+            "question_type": "text",
+            "text": "Which part of the flower contains the ovules?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Stamen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Petal",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Sepal",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Pistil",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_09",
+            "question_type": "text",
+            "text": "What is the primary function of white blood cells?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Carrying oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Clotting blood",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Defending against infections",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Transporting nutrients",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_010",
+            "question_type": "text",
+            "text": "In the scientific classification of living organisms, what comes after the domain?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Phylum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Kingdom",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Class",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Order",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_011",
+            "question_type": "text",
+            "text": "Which gas is primarily responsible for the greenhouse effect on Earth?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Methane",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_012",
+            "question_type": "text",
+            "text": "What is the role of the enzyme amylase in digestion?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Breaking down proteins",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Breaking down fats",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Breaking down carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Breaking down nucleic acids",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_013",
+            "question_type": "text",
+            "text": "Which structure connects the muscles to the bones in the human body?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Tendon",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ligament",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Cartilage",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Joint",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_014",
+            "question_type": "text",
+            "text": "What is the function of the chloroplast in plant cells?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Energy production",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Photosynthesis",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Protein synthesis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Cellular respiration",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_015",
+            "question_type": "text",
+            "text": "In the process of cellular respiration, what is one of the final products?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ethane",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Water",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Glucose",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Oxygen",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_016",
+            "question_type": "text",
+            "text": "Which process involves the movement of molecules from an area of higher concentration to an area of lower concentration?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Diffusion",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Osmosis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Active transport",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Facilitated diffusion",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_017",
+            "question_type": "text",
+            "text": "What is the largest organ in the human body?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Heart",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Liver",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Skin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Brain",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_018",
+            "question_type": "text",
+            "text": "Which of the following is a function of the excretory system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Digesting food",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Filtering and eliminating waste",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Producing hormones",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Transporting oxygen",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_019",
+            "question_type": "text",
+            "text": "What is the function of the ribcage in humans?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Protection of internal organs",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Digestion of food",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Respiration",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Blood circulation",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_007_020",
+            "question_type": "text",
+            "text": "Which scientist is known for proposing the theory of evolution by natural selection?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Charles Darwin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Gregor Mendel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Louis Pasteur",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Anton van Leeuwenhoek",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

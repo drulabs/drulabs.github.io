@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_006",
+    "topic": "Basics of Computer",
+    "category": "Technology",
+    "display": "Basics of Computer",
+    "difficulty_level": "medium",
+    "num_questions": 20,
+    "max_points": 225,
+    "pass_points": 100,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_006_01",
+            "question_type": "text",
+            "text": "What is the primary function of the CPU?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Arithmetic calculations",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Graphics rendering",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Memory storage",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Control and processing",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_02",
+            "question_type": "text",
+            "text": "Which of the following is a volatile memory type?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Hard disk",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "RAM",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "ROM",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Cache",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_03",
+            "question_type": "text",
+            "text": "What does the acronym \"URL\" stand for?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Uniform Retrieval Locator",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Unified Resource Locator",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Universal Resource Locator",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Universal Retrieval Link",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_04",
+            "question_type": "text",
+            "text": "What is the purpose of an operating system?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Run applications",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Manage hardware resources",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Provide internet access",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Create documents",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_05",
+            "question_type": "text",
+            "text": "Which storage device is volatile and doesn not retain data when powered off?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "RAM",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Hard disk",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "USB flash drive",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "CD-ROM",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_06",
+            "question_type": "text",
+            "text": "What is the binary equivalent of the decimal number 41?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "101001",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "101101",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "111001",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "101010",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_07",
+            "question_type": "text",
+            "text": "What is the function of the motherboard in a computer?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Connects peripherals",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Processes data",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Manages memory",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Connects and communicates with hardware components",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_08",
+            "question_type": "text",
+            "text": "Which input device is used to move the cursor on the screen?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Keyboard",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mouse",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Printer",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Monitor",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_09",
+            "question_type": "text",
+            "text": "Which programming language is commonly used for web development?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "SQL",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ruby",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Javascript",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Hadoop",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_010",
+            "question_type": "text",
+            "text": "What does \"GUI\" stand for in computing?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "General User Interaction",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Global User Integration",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Graphical Unit Interface",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Graphical User Interface",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_011",
+            "question_type": "text",
+            "text": "What does the acronym \"LAN\" stand for?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Large Access Node",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Local Area Network",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Longitudinal Analysis Network",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Low-Level Application Network",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_012",
+            "question_type": "text",
+            "text": "Which of the following is NOT a web browser?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Microsoft Edge",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Google Chrome",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Adobe Audition",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Mozilla Firefox",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_013",
+            "question_type": "text",
+            "text": "What is the full form of BIOS in context of computers?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Booting time for Input Output System",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Bilingual Input Output System models",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Binary Input and Output Sources",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Basic Input Output System",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_014",
+            "question_type": "text",
+            "text": "Which file format is commonly used for compressed archives?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "EXE",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "ZIP",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "TXT",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "DOCX",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_015",
+            "question_type": "text",
+            "text": "What is the function of the RAM in a computer?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Permanent storage",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Temporary storage for running processes",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Graphics processing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Input/output operations",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_016",
+            "question_type": "text",
+            "text": "Which component is responsible for converting digital signals to analog signals for communication over telephone lines?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Router",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Switch",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Modem",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Firewall",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_017",
+            "question_type": "text",
+            "text": "What is the primary purpose of antivirus software?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Backup data",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Enhance system performance",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Protect against malware and viruses",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Manage network connections",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_018",
+            "question_type": "text",
+            "text": "Which of the following is an example of an output device?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Keyboard",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Printer",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mouse",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Scanner",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_019",
+            "question_type": "text",
+            "text": "What is the shortcut 'Cmd/Ctrl + Z' generally used for?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Copy text",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Undo the last action",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Paste text",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Cut text",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_006_020",
+            "question_type": "text",
+            "text": "Which file extension is commonly used for executable files in Windows?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": ".EXE",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": ".TXT",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": ".DOCX",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": ".PDF",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}
