@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_012",
+    "topic": "Seven Natural Wonders",
+    "category": "Nature",
+    "display": "Seven Natural Wonders",
+    "difficulty_level": "hard",
+    "num_questions": 20,
+    "max_points": 285,
+    "pass_points": 120,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_012_01",
+            "question_type": "text",
+            "text": "What is the name of the waterfall that is part of the Seven Natural Wonders of the World and is located on the border between Zambia and Zimbabwe?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Angel Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Iguazu Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Victoria Falls",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Niagara Falls",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_02",
+            "question_type": "text",
+            "text": "The Great Barrier Reef, one of the Seven Natural Wonders, is located off the coast of which country?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Australia",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Brazil",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mexico",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Indonesia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_03",
+            "question_type": "text",
+            "text": "Machu Picchu, an ancient Incan city, is situated in the Andes Mountains of which South American country?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Peru",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chile",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ecuador",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Bolivia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_04",
+            "question_type": "text",
+            "text": "What is the name of the mountain range that includes Mount Everest, one of the Seven Natural Wonders, and spans across several countries including Nepal and China?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Rocky Mountains",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Alps",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Himalayas",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Andes",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_05",
+            "question_type": "text",
+            "text": "The Grand Canyon, a UNESCO World Heritage Site and one of the Seven Natural Wonders, is located in which U.S. state?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "California",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Arizona",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Nevada",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Utah",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_06",
+            "question_type": "text",
+            "text": "The Amazon Rainforest, part of the Seven Natural Wonders, is primarily located in which continent?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Africa",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "South America",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Asia",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Australia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_07",
+            "question_type": "text",
+            "text": "What is the name of the desert that is part of the Seven Natural Wonders and spans across several countries in Africa, including Egypt and Sudan?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Sahara Desert",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Gobi Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Kalahari Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Atacama Desert",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_08",
+            "question_type": "text",
+            "text": "Which natural wonder is known for its extensive limestone formations, caves, and karst landscapes in Halong Bay, Vietnam?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Mount Everest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Halong Bay",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Iguazu Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Amazon Rainforest",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_09",
+            "question_type": "text",
+            "text": "What is the name of the active stratovolcano located in the Andes Mountains in Chile, known for its symmetrical cone shape and occasional eruptions?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Mount Kilimanjaro",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mount Fuji",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mount Vesuvius",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Villarrica",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_010",
+            "question_type": "text",
+            "text": "The Jeju Island, known for its volcanic landscapes and unique ecosystem, is part of the Seven Natural Wonders and is located in which country?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "South Korea",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Japan",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Philippines",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Malaysia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_011",
+            "question_type": "text",
+            "text": "Which waterfall, part of the Seven Natural Wonders, is situated on the border between Brazil and Argentina and is known for its impressive width and flow?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Angel Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Niagara Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Victoria Falls",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Iguazu Falls",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_012",
+            "question_type": "text",
+            "text": "The Komodo Island, known for its unique Komodo dragons and diverse marine life, is part of the Seven Natural Wonders and is located in which country?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Indonesia",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Thailand",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Malaysia",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Philippines",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_013",
+            "question_type": "text",
+            "text": "What is the name of the natural wonder located in the Swiss Alps, known for its stunning glacial landscapes and iconic peak, the Matterhorn?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Yellowstone National Park",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mount Everest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Matterhorn",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Great Barrier Reef",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_014",
+            "question_type": "text",
+            "text": "The Bay of Fundy, known for having the highest tides in the world, is located between which two Canadian provinces?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "British Columbia and Alberta",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ontario and Quebec",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "New Brunswick and Nova Scotia",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Manitoba and Saskatchewan",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_015",
+            "question_type": "text",
+            "text": "The Maldives, known for its coral atolls and vibrant marine life, is part of the Seven Natural Wonders and is located in which ocean?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Pacific Ocean",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Atlantic Ocean",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Indian Ocean",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Southern Ocean",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_016",
+            "question_type": "text",
+            "text": "What is the name of the natural wonder located in the Australian state of Queensland, known for its unique rock formations and diverse ecosystems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ayers Rock",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Great Barrier Reef",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Twelve Apostles",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Fraser Island",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_017",
+            "question_type": "text",
+            "text": "The Gal\u00e1pagos Islands, known for their unique biodiversity and contributions to Charles Darwin's theory of evolution, are part of the Seven Natural Wonders and belong to which country?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Brazil",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ecuador",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Peru",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Colombia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_018",
+            "question_type": "text",
+            "text": "What is the name of the natural wonder located in the state of Arizona, USA, known for its stunning rock formations and vibrant colors?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Yellowstone National Park",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Yosemite National Park",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Grand Canyon",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Bryce Canyon",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_019",
+            "question_type": "text",
+            "text": "Mount Kilimanjaro, the highest peak in Africa, is part of the Seven Natural Wonders and is located in which country?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 20,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Kenya",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tanzania",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Uganda",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Rwanda",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_012_020",
+            "question_type": "text",
+            "text": "What is the name of the natural wonder located in the state of New Mexico, USA, known for its extensive underground cave systems?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Mammoth Cave",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Carlsbad Caverns",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Luray Caverns",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Wind Cave",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

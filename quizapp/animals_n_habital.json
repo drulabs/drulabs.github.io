@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_015",
+    "topic": "Animals and their Habitat",
+    "category": "Books",
+    "display": "Animals and their Habitat",
+    "difficulty_level": "hard",
+    "num_questions": 20,
+    "max_points": 170,
+    "pass_points": 70,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_015_01",
+            "question_type": "text",
+            "text": "What is the natural habitat of polar bears?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tundra",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Grassland",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_02",
+            "question_type": "text",
+            "text": "Which of the following animals is adapted to live in the ocean?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Camel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Penguin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Cheetah",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Elephant",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_03",
+            "question_type": "text",
+            "text": "Where do koalas primarily reside?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Arctic",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Savannah",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Eucalyptus forests",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_04",
+            "question_type": "text",
+            "text": "What is the habitat of a crocodile?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Swamp",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Mountain",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_05",
+            "question_type": "text",
+            "text": "Which biome is characterized by frozen soil and a layer of permanently frozen subsoil?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Tundra",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tropical rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Grassland",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_06",
+            "question_type": "text",
+            "text": "In which habitat would you find camels?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Polar region",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Desert",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Alpine meadow",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_07",
+            "question_type": "text",
+            "text": "What is the natural habitat of the Bengal tiger?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Jungle",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Mountain",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_08",
+            "question_type": "text",
+            "text": "Which of the following animals is adapted to live in trees?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Hippopotamus",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Sloth",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Kangaroo",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Rhino",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_09",
+            "question_type": "text",
+            "text": "Where would you find a puffin?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Arctic region",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Savannah",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_010",
+            "question_type": "text",
+            "text": "What is the primary habitat of a polar fox?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tundra",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Alpine meadow",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_011",
+            "question_type": "text",
+            "text": "Which biome is characterized by coniferous forests and cold temperatures?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Tropical rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Taiga",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Desert",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_012",
+            "question_type": "text",
+            "text": "In which habitat do dolphins primarily live?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Ocean",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Savannah",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Polar region",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_013",
+            "question_type": "text",
+            "text": "Where would you find a chameleon in its natural habitat?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tropical rainforest",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Savanna",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_014",
+            "question_type": "text",
+            "text": "What is the natural habitat of a kangaroo?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Grassland",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Savannah",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_015",
+            "question_type": "text",
+            "text": "Which of the following animals is adapted to a burrowing lifestyle?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Giraffe",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Armadillo",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Zebra",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Gorilla",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_016",
+            "question_type": "text",
+            "text": "Where do emperor penguins breed and raise their chicks?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tundra",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Antarctic region",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_017",
+            "question_type": "text",
+            "text": "In which biome would you find the largest number of species?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tropical rainforest",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Tundra",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_018",
+            "question_type": "text",
+            "text": "What is the natural habitat of a meerkat?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Savannah",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Polar region",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_019",
+            "question_type": "text",
+            "text": "Which biome is characterized by tall grasses and a lack of trees?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Grassland",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tundra",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Taiga",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_015_020",
+            "question_type": "text",
+            "text": "Where would you find a panda in its natural habitat?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Grassland",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Rainforest",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Bamboo forest",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

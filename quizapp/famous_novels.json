@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_014",
+    "topic": "Famous Books",
+    "category": "Books",
+    "display": "Famous Books",
+    "difficulty_level": "hard",
+    "num_questions": 20,
+    "max_points": 200,
+    "pass_points": 90,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_014_01",
+            "question_type": "text",
+            "text": "Who is the author of \"To Kill a Mockingbird\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ernest Hemingway",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "F. Scott Fitzgerald",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "J.K. Rowling",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Harper Lee",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_02",
+            "question_type": "text",
+            "text": "Which classic novel is written by Jane Austen?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The Great Gatsby",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "1984",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Wuthering Heights",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Pride and Prejudice",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_03",
+            "question_type": "text",
+            "text": "\"The Catcher in the Rye\" is a novel written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "George Orwell",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "J.D. Salinger",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Mark Twain",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "F. Scott Fitzgerald",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_04",
+            "question_type": "text",
+            "text": "Who wrote the fantasy series \"Harry Potter\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "C.S. Lewis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "J.R.R. Tolkien",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "J.K. Rowling",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Suzanne Collins",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_05",
+            "question_type": "text",
+            "text": "The book \"1984\" was penned by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "H.G. Wells",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "George Orwell",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Ray Bradbury",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Aldous Huxley",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_06",
+            "question_type": "text",
+            "text": "\"The Great Gatsby\" is a novel written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Jane Austen",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "F. Scott Fitzgerald",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Virginia Woolf",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ernest Hemingway",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_07",
+            "question_type": "text",
+            "text": "Who authored the play \"Romeo and Juliet\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Charles Dickens",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Emily Bront\u00eb",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "William Shakespeare",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Oscar Wilde",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_08",
+            "question_type": "text",
+            "text": "\"The Lord of the Rings\" trilogy is written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "J.K. Rowling",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "George R.R. Martin",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Suzanne Collins",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "J.R.R. Tolkien",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_09",
+            "question_type": "text",
+            "text": "Which of the following books is written by Gabriel Garc\u00eda M\u00e1rquez?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The Grapes of Wrath",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "The Shining",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "One Hundred Years of Solitude",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "The Catcher in the Rye",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_010",
+            "question_type": "text",
+            "text": "Who is the author of \"Pride and Prejudice\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Jane Austen",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Emily Dickinson",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Virginia Woolf",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Charlotte Bront\u00eb",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_011",
+            "question_type": "text",
+            "text": "\"The Hobbit\" is a novel written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "C.S. Lewis",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "J.R.R. Tolkien",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "J.K. Rowling",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "George R.R. Martin",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_012",
+            "question_type": "text",
+            "text": "The famous novel \"One Hundred Years of Solitude\" is written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Julio Cort\u00e1zar",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Isabel Allende",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Gabriel Garc\u00eda M\u00e1rquez",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Mario Vargas Llosa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_013",
+            "question_type": "text",
+            "text": "Who is the author of \"The Hitchhiker's Guide to the Galaxy\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Arthur C. Clarke",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Philip K. Dick",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Isaac Asimov",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Douglas Adams",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_014",
+            "question_type": "text",
+            "text": "\"Wuthering Heights\" is a novel written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Charles Dickens",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Emily Bront\u00eb",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Charlotte Bront\u00eb",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Jane Austen",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_015",
+            "question_type": "text",
+            "text": "Which classic novel features the character Atticus Finch?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "To Kill a Mockingbird",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "1984",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Pride and Prejudice",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "The Great Gatsby",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_016",
+            "question_type": "text",
+            "text": "Who wrote the science fiction novel \"Dune\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Frank Herbert",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Philip K. Dick",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Isaac Asimov",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Arthur C. Clarke",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_017",
+            "question_type": "text",
+            "text": "The book \"Brave New World\" is written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Ray Bradbury",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "George Orwell",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "H.G. Wells",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Aldous Huxley",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_018",
+            "question_type": "text",
+            "text": "Who is the author of the \"Game of Thrones\" series?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Suzanne Collins",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "J.K. Rowling",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "George R.R. Martin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "J.R.R. Tolkien",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_019",
+            "question_type": "text",
+            "text": "\"The Road\" is a novel written by:",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "J.D. Salinger",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "F. Scott Fitzgerald",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Cormac McCarthy",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Ernest Hemingway",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_014_020",
+            "question_type": "text",
+            "text": "Which novel features the character Sherlock Holmes?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "The Hound of the Baskervilles",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Pride and Prejudice",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Moby-Dick",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Dracula",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

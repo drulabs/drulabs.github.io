@@ -1,0 +1,653 @@
+{
+    "quiz_id": "quiz_013",
+    "topic": "Metals and Alloys",
+    "category": "Science",
+    "display": "Metals and Alloys",
+    "difficulty_level": "hard",
+    "num_questions": 20,
+    "max_points": 225,
+    "pass_points": 100,
+    "language": "en-US",
+    "questions": [
+        {
+            "question_id": "quiz_013_01",
+            "question_type": "text",
+            "text": "Which metal is known as the \"rusting agent\"?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Zinc",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_02",
+            "question_type": "text",
+            "text": "What is the main component of stainless steel that provides corrosion resistance?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Chromium",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Nickel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Copper",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_03",
+            "question_type": "text",
+            "text": "Which metal is commonly used for making electrical wires due to its high conductivity?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Copper",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Silver",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Gold",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_04",
+            "question_type": "text",
+            "text": "Brass is an alloy of which two metals?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Copper and Zinc",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Iron and Carbon",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Aluminum and Zinc",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Copper and Nickel",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_05",
+            "question_type": "text",
+            "text": "What is the primary component of bronze?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Zinc",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Tin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Iron",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_06",
+            "question_type": "text",
+            "text": "Which metal is a liquid at room temperature?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Mercury",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Lead",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_07",
+            "question_type": "text",
+            "text": "What is the process of coating iron or steel with a layer of zinc to prevent rusting?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Anodizing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Galvanization",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Electroplating",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Oxidation",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_08",
+            "question_type": "text",
+            "text": "What is the main alloying element in brass?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Zinc",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Nickel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Tin",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_09",
+            "question_type": "text",
+            "text": "Which metal is commonly used in batteries due to its ability to provide a high voltage?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Zinc",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Lead",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_010",
+            "question_type": "text",
+            "text": "What is the primary component of pewter?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Zinc",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Aluminum",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_011",
+            "question_type": "text",
+            "text": "In metallurgy, what does the term \"annealing\" refer to?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Hardening a metal",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Softening a metal",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Corroding a metal",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Melting a metal",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_012",
+            "question_type": "text",
+            "text": "Which metal is known for its low density and is often used in aircraft construction?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Titanium",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Aluminum",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nickel",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_013",
+            "question_type": "text",
+            "text": "What is the primary component of solder used for joining metals?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Lead",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Tin",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Zinc",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Copper",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_014",
+            "question_type": "text",
+            "text": "What is the alloy of iron and carbon with a carbon content between 0.2% and 2.1%?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Brass",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Bronze",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Stainless Steel",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Steel",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_015",
+            "question_type": "text",
+            "text": "Which metal is known for its exceptional resistance to corrosion and is used in the aerospace industry?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Titanium",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nickel",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_016",
+            "question_type": "text",
+            "text": "What is the primary component of the alloy \"Monel,\" known for its corrosion resistance?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Nickel",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Zinc",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Iron",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_017",
+            "question_type": "text",
+            "text": "Which metal is commonly used in galvanizing iron or steel to provide corrosion resistance?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Zinc",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Tin",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_018",
+            "question_type": "text",
+            "text": "What is the process of separating metals based on their melting points called?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 10,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Alloying",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Smelting",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Annealing",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Hardening",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_019",
+            "question_type": "text",
+            "text": "Which metal is a major component of the Earth's core and is often used in steel production?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 5,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Copper",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Nickel",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question_id": "quiz_013_020",
+            "question_type": "text",
+            "text": "What is the primary component of the alloy \"Invar,\" known for its low coefficient of thermal expansion?",
+            "image": null,
+            "audio": null,
+            "video": null,
+            "points": 15,
+            "has_multiple_correct_choices": false,
+            "choices": [
+                {
+                    "choice_id": 1,
+                    "display": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 2,
+                    "display": "Nickel",
+                    "is_correct": true
+                },
+                {
+                    "choice_id": 3,
+                    "display": "Aluminum",
+                    "is_correct": false
+                },
+                {
+                    "choice_id": 4,
+                    "display": "Copper",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}
