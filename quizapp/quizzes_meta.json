@@ -64,5 +64,29 @@
         "display": "Artificial Intelligence",
         "trending": true,
         "path": "artificial_intelligence"
+    },
+    {
+        "quiz_id": "quiz_012",
+        "display": "Seven Natural Wonders",
+        "trending": false,
+        "path": "seven_natural_wonders"
+    },
+    {
+        "quiz_id": "quiz_013",
+        "display": "Metals and Alloys",
+        "trending": true,
+        "path": "metals_alloys"
+    },
+    {
+        "quiz_id": "quiz_014",
+        "display": "Famous Books",
+        "trending": true,
+        "path": "famous_novels"
+    },
+    {
+        "quiz_id": "quiz_015",
+        "display": "Animals and their Habitat",
+        "trending": true,
+        "path": "animals_n_habital"
     }
 ]
